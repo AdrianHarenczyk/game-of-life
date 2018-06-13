@@ -1,4 +1,1 @@
-Something new
-Other new
-New new
-asdasda
+This file is test file.
